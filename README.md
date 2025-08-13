@@ -21,3 +21,16 @@ It includes a 200-row synthetic sales dataset from a fictional retail store, **S
 - Microsoft Excel
 - Pivot Tables
 - Charts & Dashboards
+
+# iPhone 14 Twitter Sentiment Analysis
+
+Analyze tweets about iPhone 14 using NLP and sentiment analysis (VADER).  
+Includes tweet cleaning, sentiment classification, and visualizations.
+
+## How to Run
+
+1. Clone this repo  
+2. Install requirements: `pip install -r requirements.txt`  
+3. Open and run the notebook `IPhone14_Sentiment_Analysis.ipynb` in Jupyter or Colab.
+
+Dataset loaded from the Hugging Face hub via `datasets` library.
